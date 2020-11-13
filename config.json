@@ -1,0 +1,9 @@
+{
+	"nickname": "Cathy",
+	"channels": ["#help"],
+	"server": "localhost",
+	"port": 6667,
+	"autoRejoin": true,
+	"username": "cathynodechatbot",
+	"realname": "cathychatbot"
+}
